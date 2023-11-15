@@ -1,0 +1,75 @@
+@media (width>1440px){
+
+    .mainbox{
+        width: 920px;
+      
+        position: relative;
+        overflow: hidden;
+        height: 535px;
+    }
+    main{
+        width: auto;
+        height: auto;
+        margin-top: 200px;
+    }
+    .mainimg{
+       display: none;
+    }
+    .mainimgdes{
+        left: -2%;
+    display: flex;
+    position: absolute;
+    top:18%;
+    }
+    .txtbox{
+
+      position: absolute;
+      width: 370px;
+      left: 48%;
+      top: 25%;
+      height: auto;
+      /* border: 1px solid black; */
+     
+   
+    }
+    .boximg{
+        left: -93px;
+        top: 235px;
+        position: absolute;
+        display: flex;
+        z-index: 1;
+       
+    }
+    h1{
+        position: absolute;
+        top: 15%;
+        left: 40%;
+    }
+    
+    .mainbox svg{
+      display: none;
+    }
+    .shadow{
+        top: -49%;
+        left: -64%;
+    display: flex;
+    position: absolute;
+  
+    }
+    h2{
+        width: 350px;
+        font-size: 14px;
+    }
+   
+    
+    h2:hover{
+        color: #F47B56;
+        cursor: pointer;
+        transform: scale(1.1);
+        transition: all 1s;
+    }
+    .dark{
+        font-size: 550px;
+    }
+}
+
