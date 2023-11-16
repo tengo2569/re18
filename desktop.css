@@ -60,7 +60,9 @@
         width: 350px;
         font-size: 14px;
     }
-   
+   p{
+       margin-left:0px;
+   }
     
     h2:hover{
         color: #F47B56;
