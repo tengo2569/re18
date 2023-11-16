@@ -20,14 +20,14 @@ body {
 
     font-family: 'Kumbh Sans';
     /* background-color: #8857b1; */
-    background: linear-gradient(265deg, #B068E9 25%, #6463E7 100%);
+      background: linear-gradient(168deg, #B068E9 109%, #6463E7 72%);
     /* overflow-x: hidden; */
 }
 
 main {
     width: 375px;
     height: auto;
-    margin-top: 230px;
+    margin-top: 200px;
     margin-left: 11px;
 
     position: relative;
